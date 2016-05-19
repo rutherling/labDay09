@@ -1,3 +1,20 @@
+/*color palett*/
+.black {
+  background-color: #040404 ;
+}
+.oriental-pink {
+  background-color: #c98e8e ;
+}
+.stiletto {
+  background-color: #9e3636 ;
+}
+.wild-sand {
+  background-color: #f6f5f5 ;
+}
+.oyster-pink {
+  background-color: #e5d0d0 ;
+}
+
 
 header {
   font-family: 'Codystar', cursive;
@@ -6,7 +23,7 @@ header {
 }
 
 body {
-  background-color: #e6e6e6;
+  background-color: #9e3636;
   font-family: arial, verdana, sans-serif;
 }
 
@@ -16,5 +33,33 @@ body {
 }
 
 h3 {
-  color: #ffa500;
+  color: #ffffff;
+  text-shadow: 1.25px 1.25px black;
+}
+
+#storeName {
+  border: dotted 5px black;
+  border-radius: 75%;
+  padding: 20px;
+  text-align: center;
+}
+
+img{
+  opacity: 0.30;
+  position: fixed;
+}
+
+div{
+  margin: 20px;
+}
+
+.Location{
+  display: inline-block;
+  color: #e5d0d0;
+}
+
+button{
+  display:block;
+  float: right;
+  margin: 0px 50px 50px 0px;
 }
