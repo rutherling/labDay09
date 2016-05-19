@@ -1,0 +1,20 @@
+
+header {
+  font-family: 'Codystar', cursive;
+  color: #ffa500;
+  font-weight: 600;
+}
+
+body {
+  background-color: #e6e6e6;
+  font-family: arial, verdana, sans-serif;
+}
+
+.header {
+  font-family: 'Covered By Your Grace', cursive;
+  color: #b30000;
+}
+
+h3 {
+  color: #ffa500;
+}
